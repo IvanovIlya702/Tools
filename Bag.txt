@@ -1,0 +1,12 @@
+Bug_report
+    ID: 1
+    Summary: In the authorizing on the site, the 'Login' field is blocked for input
+    Discription: In the authorizing on the site, the 'Login' field is blocked for input
+    Steps_to_reproduced:
+    1. Opent the site.
+    2. Fill in the 'Login' field with any valid value
+    Expected_result: The 'Login' field is available for entering characters.
+    Actual_result: The 'Login' field is blocked for entering characters.
+    Severity: Highest
+    Priority: ASAP
+    Attach: null
